@@ -12,6 +12,7 @@ package ca.sheridancollege.week2.softwarefundamentals.ice1;
  * There are 52 cards in a deck, no jokers.
  * This code is to be used in ICE1. When you create your own branch,
  * add your name as a modifier.
+ * @Urzamm, 2021/05/30
  * @author dancye, changing a comment
  */
 public class Card {
@@ -46,6 +47,14 @@ public class Card {
      */
     public void setValue(int value) {
         this.value = value;
+    }
+
+    void setSuit(Card[] magicHand) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    void magicHandadd() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
    
    
