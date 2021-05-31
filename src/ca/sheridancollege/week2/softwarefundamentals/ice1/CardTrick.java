@@ -54,7 +54,8 @@ String.add[] = ("Jack");
         //insert code to ask the user for Card value and suit, create their card
         // and search magicHand here
         //Then report the result here
- System.out.prinln(String[]);
+ System.out.prinln(Congratulations);
+System.out.println(Better luck next time)
     }
 
 
