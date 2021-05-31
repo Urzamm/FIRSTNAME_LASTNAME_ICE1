@@ -15,11 +15,13 @@ import javax.smartcardio.Card;
  * @author urzamm - 2021/05/31
  */
 public class CardTrick {
-
+ 
 private static Random random = new Random();
     
-    public static void main(String[] args)
-    {
+    public static void main(String[] args {
+     
+     Card luckyCard[7] = new Card();
+     
         Card[] magicHand = new Card[7];
         
         for (int i=0; i<magicHand.length; i++);
